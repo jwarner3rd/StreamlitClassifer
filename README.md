@@ -3,7 +3,8 @@
 This repository contains two Streamlit applications showcasing classification tasks using machine learning. Each app demonstrates a different approach to interactive data analysis and model building. The foundation of this work is based on the Coursera project ["Build a Machine Learning Web App with Streamlit and Python"](https://www.coursera.org/projects/machine-learning-streamlit-python) by instructor Snehan Kekre. The code has been updated to reflect recent changes in Streamlit and to include enhanced documentation and explanations of the machine learning algorithms.
 
 ---
-<embed src="/images/MushroomSafetyDashboard.pdf" type="application/pdf">
+<object data="/images/MushroomSafetyDashboard.pdf" type="application/pdf width="100%"">
+</object>
 
 
 ## Mushroom Classification Dashboard
