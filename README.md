@@ -4,7 +4,7 @@ This repository contains two Streamlit applications showcasing classification ta
 
 ---
 <object data="https://github.com/jwarner3rd/StreamlitClassifer/blob/main/images/MushroomSafetyDashboard.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+https://github.com/jwarner3rd/StreamlitClassifer/blob/main/images/MushroomSafetyDashboard.pdf
 
 ## Mushroom Classification Dashboard
 
