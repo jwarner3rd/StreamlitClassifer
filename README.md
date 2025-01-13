@@ -3,14 +3,13 @@
 This repository contains two Streamlit applications showcasing classification tasks using machine learning. Each app demonstrates a different approach to interactive data analysis and model building. The foundation of this work is based on the Coursera project ["Build a Machine Learning Web App with Streamlit and Python"](https://www.coursera.org/projects/machine-learning-streamlit-python) by instructor Snehan Kekre. The code has been updated to reflect recent changes in Streamlit and to include enhanced documentation and explanations of the machine learning algorithms.
 
 ---
+## Mushroom Classification Dashboard
 
 <div style="display: flex; justify-content: space-between;">
   <img src="images/Mushroom_1.png" alt="Image 1" width="30%">
   <img src="images/Mushroom_2.png" alt="Image 2" width="30%">
   <img src="images/Mushroom_3.png" alt="Image 3" width="30%">
 </div>
-
-## Mushroom Classification Dashboard
 
 ### Overview
 The **Mushroom Classification Dashboard** is a Streamlit-based web application designed to classify mushrooms as either edible or poisonous based on their characteristics. The app uses three machine learning algorithms for binary classification:
