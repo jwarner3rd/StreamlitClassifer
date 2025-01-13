@@ -103,4 +103,5 @@ For any questions or feedback, please contact:
 - **Name**: John Warner
 - **Email**: [john.warner.3rd@gmail.com](mailto:john.warner.3rd@gmail.com)
 - **GitHub**: [jwarner3rd](https://github.com/jwarner3rd)
+- **LinkedIn**: [www.linkedin.com/in/john-j-warner/](https://www.linkedin.com/in/john-j-warner/)
 
