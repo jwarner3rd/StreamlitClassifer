@@ -55,9 +55,9 @@ Users can select a classifier, tune hyperparameters, and view evaluation metrics
 ## Dynamic Classifier with CSV Upload
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/dash_1.png" alt="Image 1" width="30%">
-  <img src="images/dash_2.png" alt="Image 2" width="30%">
-  <img src="images/dash_3.png" alt="Image 3" width="30%">
+  <img src="images/MLdash_1.png" alt="Image 1" width="30%">
+  <img src="images/MLdash_2.png" alt="Image 2" width="30%">
+  <img src="images/MLdash_3.png" alt="Image 3" width="30%">
 </div> 
 
 ### Overview
