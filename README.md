@@ -101,6 +101,6 @@ pip install -r requirements.txt
 ## Contact
 For any questions or feedback, please contact:
 - **Name**: John Warner
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: [john.warner.3rd@gmail.com](mailto:john.warner.3rd@gmail.com)
+- **GitHub**: [jwarner3rd](https://github.com/jwarner3rd)
 
